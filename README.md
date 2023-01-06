@@ -1,7 +1,7 @@
-# kasiski-method
 This repo has 
 
 1- an implementation of kasiski test, this test aims to try to deduce the keyword used in the cipher text.
+
 2- an implementation of rc4 stream cipher, it encrypts messages one byte at a time via an algorithm.
 
 # To run the kasiski test code
